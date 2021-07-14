@@ -6,4 +6,6 @@ The dataset is downloaded from UCI Machine Learning Repository
 
 Distributions of the variables/features.
 
-![Uploading Screenshot 2021-07-14 at 8.38.54 PM.png…]()
+<img width="1013" alt="Screenshot 2021-07-14 at 8 40 43 PM" src="https://user-images.githubusercontent.com/33095465/125646327-e081cadc-2bef-4ef0-9946-0fe7edea93ec.png">
+
+
